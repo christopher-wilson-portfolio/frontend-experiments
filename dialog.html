@@ -3,29 +3,172 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Document</title>
+
+    <link href="normalize.css" type="text/css">
+    <link href="skeleton.css" type="text/css">
+
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+            background-image: linear-gradient(to bottom right, lightskyblue, lightblue);
+            margin: 0;
+            height: 100vh;
+        }
+        button {
+            border: 1px solid grey;
+            border-radius: 4px;
+            height: 2rem;
+            padding: 0 1rem;
+            width: 12rem;
+        }
+        button:hover {
+            font-weight: bold;
+            cursor: pointer;
+        }
+        button.close-button {
+            border: none;
+            background: transparent;
+            float: right;
+            width: unset;
+        }
+        button.dialog-buttons {
+            height: 3rem;
+            font-weight: bold;
+        }
+        button.dialog-buttons:first-of-type {
+            background-color: rgb(252, 251, 254);
+            border-color: mediumpurple;
+        }
+        button.dialog-buttons:last-of-type {
+            background-color: rgb(148, 112, 219);
+            color: white;
+        }
+        dialog {
+            padding: 0;
+        }
+        dialog > header {
+            border-bottom: 1px solid black;
+            font-family: sans-serif;
+            padding: 0.5rem 1rem;
+        }
+        dialog > main {
+            flex-direction: column;
+            padding: 1rem;
+        }
+        dialog.styled-dialog {
+            font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            line-height: 1.5rem;
+            width: 40rem;
+            height: 20rem;
+            border: none;
+        }
+        dialog.styled-dialog > header {
+            border-bottom: none;
+            height: 2rem;
+        }
+        dialog.styled-dialog > main {
+            padding: 0 10%
+        }
+        dialog.styled-dialog > main > header {
+            text-align: center;
+            font-weight: bold;
+        }
+        dialog.styled-dialog > main > section {
+            margin-top: 1.5rem;
+            height: unset;
+        }
+        footer {
+            background-color: mediumpurple;
+            font-weight: bold;
+            margin-top: auto;
+            height: 4rem;
+            width: 100vw;
+        }
+        footer > a {
+            margin: 1rem;
+        }
+        label {
+            background-color: lightgray;
+            display: inline-flex;
+            font-size: 2rem;
+            width: 100%;
+        }
+        main {
+            display: flex;
+        }
+        main > button {
+            margin: 10rem auto;
+        }
+        main.container {
+            flex-direction: row;
+            gap: 4rem;
+        }
+        section {
+            display: flex;
+            flex-direction: column;
+            height: 40vw;
+            width: 40vw;
+        }
+        section.button-container {
+            gap: 1rem;
+            align-items: center;
+            width: unset;
+        }
+        section.button-container > form {
+            display: flex;
+            gap: 1rem;
+        }
+    </style>
 </head>
 <body>
-    <section>
-        <label for="unstyled-dialog">Unstyled Dialog</label>
-        <dialog id="unstyled-dialog" open>
-            <p>Greetings, on and all</p>
-            <form method="dialog">
-                <button>OK</button>
-            </form>
-        </dialog>
-    </section>
+    <main class="container">
+        <button onclick="document.getElementById('unstyled-dialog').showModal()">
+            Open Unstyled Dialog
+        </button>
 
-    <section>
-        <label for="styled-dialog">
-            <dialog id="styled-dialog" open>
-                <p>Salutations, et tout</p>
+        <button onclick="document.getElementById('styled-dialog').showModal()">
+            Open Styled Dialog
+        </button>
+
+        <dialog id="unstyled-dialog">
+            <header>Unstyled Modal Dialog</header>
+            <main>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus dolores dolorum est fuga
+                    harum illo, illum in inventore, ipsam maxime minima molestiae natus officia optio sapiente, sint
+                    veritatis voluptates voluptatum.</p>
+
                 <form method="dialog">
-                    <button>OK</button>
+                    <button>Close Dialog</button>
                 </form>
-            </dialog>
-        </label>
-    </section>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog">MDN</a>
+            </main>
+        </dialog>
+
+        <dialog id="styled-dialog" class="styled-dialog">
+            <header>
+                <form method="dialog">
+                    <button class="close-button">&#x2715;</button>
+                </form>
+            </header>
+            <main>
+                <header>Styled Modal Dialog</header>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus dolores dolorum est fuga
+                    harum illo, illum in inventore, ipsam maxime minima molestiae natus officia optio sapiente, sint
+                    veritatis voluptates voluptatum.
+                </p>
+                <section class="button-container">
+                    <form method="dialog">
+                        <button class="dialog-buttons">Button One</button>
+                        <button class="dialog-buttons">Button Two</button>
+                    </form>
+                </section>
+            </main>
+        </dialog>
+    </main>
+
 </body>
 </html>
