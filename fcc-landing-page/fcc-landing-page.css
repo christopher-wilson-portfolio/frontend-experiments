@@ -1,6 +1,9 @@
 @media screen {
     :root {
         --color-blue: rgb(63, 136, 197);
+        --color-grey: rgb(221, 221, 221);
+        --color-orange: rgb(255, 140, 0);
+        --color-yellow: rgb(241, 196, 15);
     }
 
     * {
@@ -8,32 +11,30 @@
         flex-direction: column;
     }
     body {
-        align-items: center;
         background-color: rgb(238, 229, 229);
         font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
         margin: 0;
     }
-    button[type=submit] {
-        align-items: center;
-        background-color: var(--color-blue);
-        color: white;
+    button[type=submit], button.select-button {
+        background-color: var(--color-yellow);
+        color: rgb(0, 0, 0);
         border: none;
         font-size: 1rem;
         width: 10rem;
         border-radius: 4px;
-        font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
         font-weight: 500;
         justify-content: center;
     }
     button:hover {
         cursor: pointer;
     }
-    form {
-        flex-direction: row;
-        gap: 1rem;
+    button.select-button {
+        width: 14rem;
     }
     h1 {
         font-size: 4.5rem;
+    }
+    h1, h2 {
         margin: 0;
     }
     header {
@@ -44,9 +45,14 @@
         width: 100vw;
     }
     header > img {
+        align-self: center;
         height: 2rem;
     }
-
+    i.fa {
+        font-size: 5.5rem;
+        vertical-align: baseline;
+        width: 10rem;
+    }
     input {
         padding-left: 1rem;
     }
@@ -57,7 +63,8 @@
     main {
         display: flex;
         flex-direction: column;
-        padding: 2rem;
+        gap: 5rem;
+        padding: 5rem 2rem 2rem;
         max-width: 90vw;
         align-content: center;
     }
@@ -71,14 +78,45 @@
     section {
         gap: 2rem;
     }
+    section.guarantees > div {
+        flex-direction: row;
+        gap: 2rem;
+    }
+    section.price-box {
+        align-items: center;
+        border: 1px solid black;
+        gap: 0;
+        max-width: 20vw;
+        min-width: unset !important;
+    }
+    section.price-box > header {
+        height: 3rem;
+        color: black;
+        text-transform: uppercase;
+        background-color: var(--color-grey);
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+    section.price-box > main {
+        align-items: center;
+        padding: 1rem;
+    }
+    section.price-box > main > ul {
+        line-height: 1.5rem;
+    }
+    section.price-box > main > p {
+        font-size: 2rem;
+    }
 
+    .fa {
+        color: var(--color-orange);
+    }
     .nav-link {
-        color: var(--color-blue);
-        font-weight: bold;
+        color: rgb(000, 000, 000);
         text-decoration: none;
     }
     .row {
-        flex-direction: row;
         width: 100%;
         gap: 2rem;
     }
@@ -89,7 +127,22 @@
         align-items: flex-end;
     }
 
-    script {
-        visibility: hidden;
+    /** Items displayed by the local server **/
+    script, style, title {
+        display: none;
+    }
+
+    /** Utility Classes */
+    .align-items-center {
+        align-items: center;
+    }
+    .bold {
+        font-weight: bold;
+    }
+    .fd-r {
+        flex-direction: row;
+    }
+    .gap-1 {
+        gap: 1rem;
     }
 }
