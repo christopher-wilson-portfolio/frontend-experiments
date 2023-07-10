@@ -6,27 +6,41 @@
 
     <link rel="stylesheet" href="normalize.css">
     <link rel="stylesheet" href="skeleton.css">
-    
-    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+
+    <title>Christopher Wilson: Frontend Experiments</title>
 </head>
 <body>
-    <section>
-        <header>Styling Examples</header>
-        <ul>
-            <li><a href="dialog.html"><code>Dialog</code> Example</a></li>
-        </ul>
-    </section>
+    <div class="container flex flex-col gap-16 mt-4">
+        <header>
+            <h1 class="text-3xl">List of Frontend Experiments and Projects</h1>
+        </header>
 
-    <section>
-        <header>Free Code Camp Projects</header>
-        <ul>
-            <li><a href="fcc-landing-page/landing-page.html">Landing Page Example</a></li>
-            <li>
-                <a href="fcc-technical-documentation-page/fcc-technical-documentation-page.html">
-                    Technical Documentation Page
-                </a>
-            </li>
-        </ul>
-    </section>
+        <div id="project-groups" class="flex flex-row flex-wrap gap-16 project-groups">
+            <section class="border-2 overflow-hidden rounded-tl-3xl">
+                <header class="px-4 border-b text-2xl">Styling Examples</header>
+                <main class="p-4">
+                    <ol>
+                        <li><a href="dialog.html"><code>Dialog</code> Example</a></li>
+                        <li><a href="tailwind-menu/tailwind-menu.html">Tailwind Cafe Menu</a></li>
+                    </ol>
+                </main>
+            </section>
+
+            <section class="border-2 overflow-hidden rounded-tl-3xl">
+                <header class="border-b px-4 text-2xl">Free Code Camp Projects</header>
+                <main class="p-4">
+                    <ol>
+                        <li><a href="fcc-landing-page/landing-page.html">Landing Page Example</a></li>
+                        <li>
+                            <a href="fcc-technical-documentation-page/fcc-technical-documentation-page.html">
+                                Technical Documentation Page
+                            </a>
+                        </li>
+                    </ol>
+                </main>
+            </section>
+        </div>
+    </div>
 </body>
 </html>

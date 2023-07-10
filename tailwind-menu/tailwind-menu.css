@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+}
+@media screen {
+    body {
+        font-family: "Proxima Nova", sans-serif;
+    }
+
+    section {
+        margin-bottom: 2rem;
+    }
+
+    .hero-image {
+        background-image: var(--image);
+    }
+    .flavor {
+
+    }
+
+    .menu {
+
+    }
+
+    @media (min-width: 760px) {
+        body {
+            background-image: var(--image);
+        }
+    }
+}
