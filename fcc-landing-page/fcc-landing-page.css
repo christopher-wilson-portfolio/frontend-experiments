@@ -10,31 +10,76 @@
         --spacing-default: 5rem;
     }
 
-    * {
-        display: flex;
-        flex-direction: column;
+    @media (min-width: 1px) {
+        * {
+            display: flex;
+            flex-direction: column;
+        }
+        button:disabled {
+            background-color: transparent;
+            border: 1px solid var(--color-yellow);
+            cursor: not-allowed;
+            color: white;
+        }
+        button:enabled {
+            background-color: var(--color-yellow);
+            border: none;
+        }
+        button:enabled:hover {
+            cursor: pointer;
+        }
+        button[type=submit], button.select-button {
+            color: rgb(0, 0, 0);
+            font-size: 1rem;
+            height: var(--inline-height);
+            width: 10rem;
+            border-radius: 4px;
+            font-weight: 500;
+            justify-content: center;
+        }
+        button.select-button {
+            width: 14rem;
+        }
+        i.fa {
+            font-size: 4rem;
+            width: 4rem;
+        }
+        section.price-box {
+            height: 23rem;
+        }
+
+        .price-box-container {
+            flex-direction: row;
+            justify-content: space-around;
+        }
     }
+
+    @media (min-width: 800px) {
+        .pricing-row {
+            flex-direction: column;
+        }
+    }
+
+    @media (min-width: 1600px) {
+        i.fa {
+            font-size: 5.5rem;
+            vertical-align: baseline;
+            width: 10rem;
+        }
+        section.price-box {
+            height: unset;
+        }
+
+        .pricing-row {
+            flex-direction: row;
+        }
+    }
+
+   
     body {
         background-color: rgb(238, 229, 229);
         font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
         margin: 0;
-    }
-    button[type=submit], button.select-button {
-        background-color: var(--color-yellow);
-        color: rgb(0, 0, 0);
-        border: none;
-        font-size: 1rem;
-        height: var(--inline-height);
-        width: 10rem;
-        border-radius: 4px;
-        font-weight: 500;
-        justify-content: center;
-    }
-    button:hover {
-        cursor: pointer;
-    }
-    button.select-button {
-        width: 14rem;
     }
     h1 {
         font-size: 4.5rem;
@@ -54,14 +99,13 @@
         height: 2rem;
         margin-left: calc(var(--spacing-default) - 2rem);
     }
-    i.fa {
-        font-size: 5.5rem;
-        vertical-align: baseline;
-        width: 10rem;
-    }
+    
     input {
         padding-left: 1rem;
         width: 30rem;
+    }
+    input[type=email]:invalid {
+        border-color: red;
     }
     main {
         gap: 5rem;
