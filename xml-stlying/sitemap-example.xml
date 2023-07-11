@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="xml.css" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    <url>
+        <loc>https://thehackernews.com/2023/07/hackers-exploit-windows-policy-loophole.html</loc>
+        <lastmod>2023-07-11T22:46:36+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-11T22:29:00+05:30</news:publication_date>
+            <news:title>Hackers Exploit Windows Policy Loophole to Forge Kernel-Mode Driver Signatures</news:title>
+            <news:keywords>Cisco Talos, Code Signing Certificate, hacking news, Malware, Microsoft, software security</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/how-to-apply-mitre-att-to-your.html</loc>
+        <lastmod>2023-07-11T16:45:30+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-11T16:45:00+05:30</news:publication_date>
+            <news:title>How to Apply MITRE ATT&CK to Your Organization</news:title>
+            <news:keywords>Cato Networks, Cybersecurity Framework, MITRE ATT&CK Framework</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/scarleteel-cryptojacking-campaign.html</loc>
+        <lastmod>2023-07-11T21:43:14+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-11T15:28:00+05:30</news:publication_date>
+            <news:title>SCARLETEEL Cryptojacking Campaign Exploiting AWS Fargate in Ongoing Campaign</news:title>
+            <news:keywords>Amazon Web Services, AWS, Cloud security</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/beware-of-big-head-ransomware-spreading.html</loc>
+        <lastmod>2023-07-11T22:34:39+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-11T14:15:00+05:30</news:publication_date>
+            <news:title>Beware of Big Head Ransomware: Spreading Through Fake Windows Updates</news:title>
+            <news:keywords>Cyber Attack, hacking news, Malware, Microsoft, ransomware, Trend Micro</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/apple-issues-urgent-patch-for-zero-day.html</loc>
+        <lastmod>2023-07-11T22:51:55+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-11T09:38:00+05:30</news:publication_date>
+            <news:title>Apple Issues Urgent Patch for Zero-Day Flaw Targeting iOS, iPadOS, macOS, and Safari</news:title>
+            <news:keywords>Apple, iOS, MacOS</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/new-mozilla-feature-blocks-risky-add.html</loc>
+        <lastmod>2023-07-11T09:02:11+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-10T18:27:00+05:30</news:publication_date>
+            <news:title>New Mozilla Feature Blocks Risky Add-Ons on Specific Websites to Safeguard User Security</news:title>
+            <news:keywords>browser security, Mozilla Firefox</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/new-toitoin-banking-trojan-targeting.html</loc>
+        <lastmod>2023-07-10T17:52:13+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-10T17:52:00+05:30</news:publication_date>
+            <news:title>New TOITOIN Banking Trojan Targeting Latin American Businesses</news:title>
+            <news:keywords>Trojan, Zscaler</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/global-retailers-must-keep-eye-on-their.html</loc>
+        <lastmod>2023-07-10T17:05:05+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-10T17:05:00+05:30</news:publication_date>
+            <news:title>Global Retailers Must Keep an Eye on Their SaaS Stack</news:title>
+            <news:keywords>Adaptive Shield, SaaS Security</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/romcom-rat-targeting-nato-and-ukraine.html</loc>
+        <lastmod>2023-07-11T09:02:37+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-10T12:12:00+05:30</news:publication_date>
+            <news:title>RomCom RAT Targeting NATO and Ukraine Support Groups</news:title>
+            <news:keywords>Microsoft, NATO, Remote Access Trojan, RomCom</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/hackers-steal-20-million-by-exploiting.html</loc>
+        <lastmod>2023-07-11T11:30:50+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-10T10:50:00+05:30</news:publication_date>
+            <news:title>Revolut Faces $20 Million Loss as Attackers Exploit Payment System Weakness</news:title>
+            <news:keywords>Cyber Attack, cyber heist</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/two-spyware-apps-on-google-play-with-15.html</loc>
+        <lastmod>2023-07-11T15:33:02+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-08T13:15:00+05:30</news:publication_date>
+            <news:title>Two Spyware Apps on Google Play with 1.5 Million Users Sending Data to China</news:title>
+            <news:keywords>Android, Google Play Store, Malware, mobile security, spyware</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/improve-your-security-wordpress-spam.html</loc>
+        <lastmod>2023-07-08T11:44:08+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-08T11:44:00+05:30</news:publication_date>
+            <news:title>Improve Your Security WordPress Spam Protection With CleanTalk Anti-Spam</news:title>
+            <news:keywords>CleanTalk, Spam Protection, website security, WordPress</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/vishing-goes-high-tech-new-letscall.html</loc>
+        <lastmod>2023-07-07T23:47:43+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-07T23:42:00+05:30</news:publication_date>
+            <news:title>Vishing Goes High-Tech: New 'Letscall' Malware Employs Voice Traffic Routing</news:title>
+            <news:keywords>Android Malware, Call Center Fraud, Google Play Store, hacking news, mobile security, Vishing Attack, Voice Phishing</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/another-critical-unauthenticated-sqli.html</loc>
+        <lastmod>2023-07-07T19:31:00+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-07T19:31:00+05:30</news:publication_date>
+            <news:title>Another Critical Unauthenticated SQLi Flaw Discovered in MOVEit Transfer Software</news:title>
+            <news:keywords>MOVEit Transfer, Progress Software, sql injection, Vulnerability</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/mastodon-social-network-patches.html</loc>
+        <lastmod>2023-07-07T18:25:56+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-07T18:25:00+05:30</news:publication_date>
+            <news:title>Mastodon Social Network Patches Critical Flaws Allowing Server Takeover</news:title>
+            <news:keywords>Mastodon, Social media, Vulnerability</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/close-security-gaps-with-continuous.html</loc>
+        <lastmod>2023-07-07T16:07:19+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-07T16:07:00+05:30</news:publication_date>
+            <news:title>Close Security Gaps with Continuous Threat Exposure Management</news:title>
+            <news:keywords>BreachLock, Continuous Threat Exposure Management, Penetration Testing, vulnerability assessment</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/blackbyte-20-ransomware-infiltrate.html</loc>
+        <lastmod>2023-07-07T15:50:47+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-07T15:50:00+05:30</news:publication_date>
+            <news:title>BlackByte 2.0 Ransomware: Infiltrate, Encrypt, and Extort in Just 5 Days</news:title>
+            <news:keywords>Cyber Attack, Malware, Microosft, ransomware</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/google-releases-android-patch-update.html</loc>
+        <lastmod>2023-07-07T12:54:03+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-07T12:54:00+05:30</news:publication_date>
+            <news:title> Google Releases Android Patch Update for 3 Actively Exploited Vulnerabilities</news:title>
+            <news:keywords>Android, Cyber Attack, hacking, Malware, mobile security, Vulnerability</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/jumpcloud-resets-api-keys-amid-ongoing.html</loc>
+        <lastmod>2023-07-07T11:57:28+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-07T11:47:00+05:30</news:publication_date>
+            <news:title>JumpCloud Resets API Keys Amid Ongoing Cybersecurity Incident</news:title>
+            <news:keywords>Access Management, data breach, hacking, Identity Management, JumpCloud</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/cybersecurity-agencies-sound-alarm-on.html</loc>
+        <lastmod>2023-07-07T12:10:01+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-07T10:42:00+05:30</news:publication_date>
+            <news:title>Cybersecurity Agencies Sound Alarm on Rising TrueBot Malware Attacks</news:title>
+            <news:keywords>hacking news, Malware, Netwrix Auditor, TrueBot, Vulnerability</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/iranian-hackers-sophisticated-malware.html</loc>
+        <lastmod>2023-07-06T23:36:51+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-06T23:36:00+05:30</news:publication_date>
+            <news:title>Iranian Hackers' Sophisticated Malware Targets Windows and macOS Users</news:title>
+            <news:keywords>hacking news, Iranian Hackers, macOS malware, Malware, windows security</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/surviving-800-gbps-storm-gain-insights.html</loc>
+        <lastmod>2023-07-06T21:56:09+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-06T16:52:00+05:30</news:publication_date>
+            <news:title>Surviving the 800 Gbps Storm: Gain Insights from Gcore's 2023 DDoS Attack Statistics</news:title>
+            <news:keywords>ddos attack, ddos protection, Gcore, server security, website security</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/researchers-uncover-new-linux-kernel.html</loc>
+        <lastmod>2023-07-06T16:25:59+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-06T16:25:00+05:30</news:publication_date>
+            <news:title>Researchers Uncover New Linux Kernel 'StackRot' Privilege Escalation Vulnerability</news:title>
+            <news:keywords>elevation of privilege, linux, Linux kernel, Vulnerability</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/how-pen-testing-can-soften-blow-on.html</loc>
+        <lastmod>2023-07-06T16:17:49+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-06T16:17:00+05:30</news:publication_date>
+            <news:title>How Pen Testing can Soften the Blow on Rising Costs of Cyber Insurance</news:title>
+            <news:keywords>Cyber Insurance, Outpost24, Penetration Testing, Vulnerability, vulnerability assessment</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/silentbob-campaign-cloud-native.html</loc>
+        <lastmod>2023-07-06T23:22:02+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-06T16:08:00+05:30</news:publication_date>
+            <news:title>Silentbob Campaign: Cloud-Native Environments Under Attack</news:title>
+            <news:keywords>Cloud security, cryptojacking</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/interpol-nabs-hacking-crew-opera1ers.html</loc>
+        <lastmod>2023-07-06T14:22:05+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-06T14:22:00+05:30</news:publication_date>
+            <news:title>INTERPOL Nabs Hacking Crew OPERA1ER's Leader Behind $11 Million Cybercrime</news:title>
+            <news:keywords>Cyber Crime, Group-IB, Interpol, Symantec</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/redenergy-stealer-as-ransomware-threat.html</loc>
+        <lastmod>2023-07-06T16:10:54+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-05T19:40:00+05:30</news:publication_date>
+            <news:title>RedEnergy Stealer-as-a-Ransomware Threat Targeting Energy and Telecom Sectors</news:title>
+            <news:keywords>hacking news, LinkedIn, Malware, ransomware</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/secrets-secrets-are-no-fun-secrets.html</loc>
+        <lastmod>2023-07-05T16:58:42+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-05T16:16:00+05:30</news:publication_date>
+            <news:title>Secrets, Secrets Are No Fun. Secrets, Secrets (Stored in Plain Text Files) Hurt Someone</news:title>
+            <news:keywords>AppSec, Checkmarx, data security</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/nodejs-users-beware-manifest-confusion.html</loc>
+        <lastmod>2023-07-05T14:30:32+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-05T14:30:00+05:30</news:publication_date>
+            <news:title>Node.js Users Beware: Manifest Confusion Attack Opens Door to Malware</news:title>
+            <news:keywords>JavaScript, Malware, Manifest Confusion, node.js</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/instagrams-twitter-alternative-threads.html</loc>
+        <lastmod>2023-07-06T14:01:25+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-05T14:08:00+05:30</news:publication_date>
+            <news:title>Instagram's Twitter Alternative 'Threads' Launch Halted in Europe Over Privacy Concerns</news:title>
+            <news:keywords>GDPR, Instagram, Meta, Privacy, Social media, Twitter</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/swedish-data-protection-authority-warns.html</loc>
+        <lastmod>2023-07-04T23:28:43+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-04T23:28:00+05:30</news:publication_date>
+            <news:title>Swedish Data Protection Authority Warns Companies Against Google Analytics Use</news:title>
+            <news:keywords>Google Analytics, Privacy</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/ddosia-attack-tool-evolves-with.html</loc>
+        <lastmod>2023-07-04T16:14:56+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-04T16:14:00+05:30</news:publication_date>
+            <news:title>DDoSia Attack Tool Evolves with Encryption, Targeting Multiple Sectors</news:title>
+            <news:keywords>botnet, ddos attack, Golang, hacking news, SentinelOne</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/mexico-based-hacker-targets-global.html</loc>
+        <lastmod>2023-07-04T15:28:12+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-04T15:28:00+05:30</news:publication_date>
+            <news:title>Mexico-Based Hacker Targets Global Banks with Android Malware</news:title>
+            <news:keywords>Cyber Crime, Phishing, SentinelOne, Smishing Attack, sms hacking</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/alert-330000-fortigate-firewalls-still.html</loc>
+        <lastmod>2023-07-04T23:18:44+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-04T12:28:00+05:30</news:publication_date>
+            <news:title>Alert: 330,000 FortiGate Firewalls Still Unpatched to CVE-2023-27997 RCE Flaw</news:title>
+            <news:keywords>BishopFox, Firewall Security, Fortigate, Fortinet, network security</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/chinese-hackers-use-html-smuggling-to.html</loc>
+        <lastmod>2023-07-04T11:36:37+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-03T18:55:00+05:30</news:publication_date>
+            <news:title>Chinese Hackers Use HTML Smuggling to Infiltrate European Ministries with PlugX</news:title>
+            <news:keywords>Chinese Hackers, Malware, PlugX, Remote Access Trojan</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/cisa-flags-8-actively-exploited-flaws.html</loc>
+        <lastmod>2023-07-03T16:18:15+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-03T16:18:00+05:30</news:publication_date>
+            <news:title>CISA Flags 8 Actively Exploited Flaws in Samsung and D-Link Devices</news:title>
+            <news:keywords>CISA, D-Link, Router, Samsung</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/evasive-meduza-stealer-targets-19.html</loc>
+        <lastmod>2023-07-10T09:54:14+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-03T15:08:00+05:30</news:publication_date>
+            <news:title>Evasive Meduza Stealer Targets 19 Password Managers and 76 Crypto Wallets</news:title>
+            <news:keywords>Info Stealer, Malware, Uptycs</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/blackcat-operators-distributing.html</loc>
+        <lastmod>2023-07-04T23:19:28+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-03T10:16:00+05:30</news:publication_date>
+            <news:title>BlackCat Operators Distributing Ransomware Disguised as WinSCP via Malvertising</news:title>
+            <news:keywords>BlackCat, malvertising, Malware, ransomware, SEO poisoning</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/unpatched-wordpress-plugin-flaw-could.html</loc>
+        <lastmod>2023-07-04T23:19:07+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-01T12:55:00+05:30</news:publication_date>
+            <news:title>Hackers Exploiting Unpatched WordPress Plugin Flaw to Create Secret Admin Accounts</news:title>
+            <news:keywords>Vulnerability, website hacking, website security, WordPress, WPScan</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/07/beware-new-rustbucket-malware-variant.html</loc>
+        <lastmod>2023-07-10T09:53:54+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-07-01T11:28:00+05:30</news:publication_date>
+            <news:title>Beware: New 'RustBucket' Malware Variant Targeting macOS Users</news:title>
+            <news:keywords>Apple, cybersecurity, hacking news, MacOS, Malware</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/iranian-hackers-charming-kitten-utilize.html</loc>
+        <lastmod>2023-07-01T11:20:19+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-30T19:24:00+05:30</news:publication_date>
+            <news:title>Iranian Hackers Using POWERSTAR Backdoor in Targeted Espionage Attacks</news:title>
+            <news:keywords>cyber espionage, Iranian Hackers</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/3-reasons-saas-security-is-imperative.html</loc>
+        <lastmod>2023-06-30T19:34:23+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-30T17:01:00+05:30</news:publication_date>
+            <news:title>3 Reasons SaaS Security is the Imperative First Step to Ensuring Secure AI Usage</news:title>
+            <news:keywords>artificial intelligence, SaaS Security, Wing Security</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/whatsapp-upgrades-proxy-feature-against.html</loc>
+        <lastmod>2023-07-01T11:17:50+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-30T14:34:00+05:30</news:publication_date>
+            <news:title>WhatsApp Upgrades Proxy Feature Against Internet Shutdowns</news:title>
+            <news:keywords>Meta, Proxy, Whatsapp</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/cybercriminals-hijacking-vulnerable-ssh.html</loc>
+        <lastmod>2023-07-01T11:18:56+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-30T14:01:00+05:30</news:publication_date>
+            <news:title>Cybercriminals Hijacking Vulnerable SSH Servers in New Proxyjacking Campaign</news:title>
+            <news:keywords>Akamai, ddos attack, layer 7 ddos attack, Proxyjacking, Proxyware</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/mitre-unveils-top-25-most-dangerous.html</loc>
+        <lastmod>2023-07-01T11:16:26+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-30T11:14:00+05:30</news:publication_date>
+            <news:title>MITRE Unveils Top 25 Most Dangerous Software Weaknesses of 2023: Are You at Risk?</news:title>
+            <news:keywords>CISA, Cross-site request forgery, cybersecurity, MITRE, sql injection, Vulnerability</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/from-muddyc3-to-phonyc2-irans.html</loc>
+        <lastmod>2023-07-02T11:45:08+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-29T21:31:00+05:30</news:publication_date>
+            <news:title>From MuddyC3 to PhonyC2: Iran's MuddyWater Evolves with a New Cyber Weapon</news:title>
+            <news:keywords>Iranian Hackers, MuddyWater</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/fluhorse-flutter-based-android-malware.html</loc>
+        <lastmod>2023-06-29T19:10:16+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-29T19:10:00+05:30</news:publication_date>
+            <news:title>Fluhorse: Flutter-Based Android Malware Targets Credit Cards and 2FA Codes</news:title>
+            <news:keywords>Android, Fortinet, Malware</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/the-right-way-to-enhance-cti-with-ai.html</loc>
+        <lastmod>2023-06-29T17:40:30+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-29T16:26:00+05:30</news:publication_date>
+            <news:title>The Right Way to Enhance CTI with AI (Hint: It's the Data)</news:title>
+            <news:keywords>artificial intelligence, Attack Surfac, Cybersixgill, dark web, Deep Web</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/north-korean-hacker-group-andariel.html</loc>
+        <lastmod>2023-06-30T09:47:29+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-29T16:19:00+05:30</news:publication_date>
+            <news:title>North Korean Hacker Group Andariel Strikes with New EarlyRat Malware</news:title>
+            <news:keywords>Kaspersky, North Korea, Vulnerability</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/android-spy-app-letmespy-suffers-major.html</loc>
+        <lastmod>2023-06-29T16:04:27+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-29T16:04:00+05:30</news:publication_date>
+            <news:title>Android Spy App LetMeSpy Suffers Major Data Breach, Exposing Users' Personal Data</news:title>
+            <news:keywords>Android, Malware, mobile security, Privacy, spyware</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/critical-security-flaw-in-social-login.html</loc>
+        <lastmod>2023-06-29T12:54:41+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-29T12:54:00+05:30</news:publication_date>
+            <news:title>Critical Security Flaw in Social Login Plugin for WordPress Exposes Users' Accounts</news:title>
+            <news:keywords>Vulnerability, website security, Wordfence, WordPress</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/newly-uncovered-thirdeye-windows-based.html</loc>
+        <lastmod>2023-06-30T09:46:52+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-29T10:18:00+05:30</news:publication_date>
+            <news:title>Newly Uncovered ThirdEye Windows-Based Malware Steals Sensitive Data</news:title>
+            <news:keywords>Info Stealer, Malware</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/alert-new-electromagnetic-attacks-on.html</loc>
+        <lastmod>2023-06-28T20:35:47+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-28T20:35:00+05:30</news:publication_date>
+            <news:title>Alert: New Electromagnetic Attacks on Drones Could Let Attackers Take Control</news:title>
+            <news:keywords>cybersecurity, Drone hacking</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/cryptoslabs-scam-ring-targets-french.html</loc>
+        <lastmod>2023-06-28T19:17:45+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-28T19:17:00+05:30</news:publication_date>
+            <news:title>CryptosLabs Scam Ring Targets French-Speaking Investors, Rakes in €480 Million</news:title>
+            <news:keywords>cybersecurity, Group-IB</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/5-things-cisos-need-to-know-about.html</loc>
+        <lastmod>2023-06-28T16:19:09+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-28T16:14:00+05:30</news:publication_date>
+            <news:title>5 Things CISOs Need to Know About Securing OT Environments</news:title>
+            <news:keywords>cybersecurity, Cyolo, Operational Technology</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/8base-ransomware-spikes-in-activity.html</loc>
+        <lastmod>2023-06-29T10:07:20+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-28T15:45:00+05:30</news:publication_date>
+            <news:title>8Base Ransomware Spikes in Activity, Threatens U.S. and Brazilian Businesses</news:title>
+            <news:keywords>encryption, Malwarebytes, ransomware, vmware</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/critical-sql-injection-flaws-expose.html</loc>
+        <lastmod>2023-06-28T12:54:37+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-28T12:54:00+05:30</news:publication_date>
+            <news:title>Critical SQL Injection Flaws Expose Gentoo Soko to Remote Code Execution</news:title>
+            <news:keywords>Gentoo Linux, linux, sql injection</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/new-mockingjay-process-injection.html</loc>
+        <lastmod>2023-06-28T10:54:00+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-27T19:52:00+05:30</news:publication_date>
+            <news:title>New Mockingjay Process Injection Technique Could Let Malware Evade Detection</news:title>
+            <news:keywords>hacking news, Malware, process injection</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/new-ongoing-campaign-targets-npm.html</loc>
+        <lastmod>2023-06-28T10:53:21+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-27T19:40:00+05:30</news:publication_date>
+            <news:title>New Ongoing Campaign Targets npm Ecosystem with Unique Execution Chain</news:title>
+            <news:keywords>Malware, npm repository, Supply Chain</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/beyond-asset-discovery-how-attack.html</loc>
+        <lastmod>2023-06-27T16:57:18+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-27T16:57:00+05:30</news:publication_date>
+            <news:title>Beyond Asset Discovery: How Attack Surface Management Prioritizes Vulnerability Remediation</news:title>
+            <news:keywords>Attack Surface Management, NetSpi</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/encrochat-bust-leads-to-6558-criminals.html</loc>
+        <lastmod>2023-06-28T10:54:43+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-27T16:53:00+05:30</news:publication_date>
+            <news:title>EncroChat Bust Leads to 6,558 Criminals' Arrests and €900 Million Seizure</news:title>
+            <news:keywords>Encrypted Messaging, Encrypted Phone, Europol</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/anatsa-banking-trojan-targeting-users.html</loc>
+        <lastmod>2023-06-28T10:55:15+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-27T16:02:00+05:30</news:publication_date>
+            <news:title>Anatsa Banking Trojan Targeting Users in US, UK, Germany, Austria, and Switzerland</news:title>
+            <news:keywords>Android, banking Trojan, hacking news, Malware</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/new-fortinets-fortinac-vulnerability.html</loc>
+        <lastmod>2023-06-27T11:05:33+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-27T11:05:00+05:30</news:publication_date>
+            <news:title>New Fortinet's FortiNAC Vulnerability Exposes Networks to Code Execution Attacks</news:title>
+            <news:keywords>Fortinet, Vulnerability</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/researchers-find-way-to-recover.html</loc>
+        <lastmod>2023-06-27T10:50:19+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-26T22:16:00+05:30</news:publication_date>
+            <news:title>Researchers Find Way to Recover Cryptographic Keys by Analyzing LED Flickers</news:title>
+            <news:keywords>cybersecurity, encryption, side-channel attack</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/japanese-cryptocurrency-exchange-falls.html</loc>
+        <lastmod>2023-06-28T10:55:51+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-26T18:06:00+05:30</news:publication_date>
+            <news:title>Japanese Cryptocurrency Exchange Falls Victim to JokerSpy macOS Backdoor Attack</news:title>
+            <news:keywords>Apple macOS, cryptocurrency, JokerSky, MacOS, Malware</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/how-generative-ai-can-dupe-saas.html</loc>
+        <lastmod>2023-07-06T22:00:09+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-26T16:42:00+05:30</news:publication_date>
+            <news:title>Generative AI Tools Can Compromise Your SaaS Security - Here's How to Fight Back</news:title>
+            <news:keywords>AppOmni, artificial intelligence, Generative AI, SaaS Security, SSPM Solution</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/microsoft-warns-of-widescale-credential.html</loc>
+        <lastmod>2023-06-27T19:41:34+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-26T16:24:00+05:30</news:publication_date>
+            <news:title>Microsoft Warns of Widescale Credential Stealing Attacks by Russian Hackers</news:title>
+            <news:keywords>Microsoft, Nobelium, password security, russian hacker</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/chinese-hackers-using-never-before-seen.html</loc>
+        <lastmod>2023-06-27T10:51:18+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-26T11:21:00+05:30</news:publication_date>
+            <news:title>Chinese Hackers Using Never-Before-Seen Tactics for Critical Infrastructure Attacks</news:title>
+            <news:keywords>CrowdStrike, cyber espionage, cybersecurity, remote code execution</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/us-cybersecurity-agency-adds-6-flaws-to.html</loc>
+        <lastmod>2023-06-24T21:00:05+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-24T21:00:00+05:30</news:publication_date>
+            <news:title>U.S. Cybersecurity Agency Adds 6 Flaws to Known Exploited Vulnerabilities Catalog</news:title>
+            <news:keywords>CISA, cybersecurity, Known Exploited Vulnerabilities, Malware, spyware, zero day</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/twitter-hacker-sentenced-to-5-years-in.html</loc>
+        <lastmod>2023-06-24T20:48:09+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-24T20:48:00+05:30</news:publication_date>
+            <news:title>Twitter Hacker Sentenced to 5 Years in Prison for $120,000 Crypto Scam</news:title>
+            <news:keywords>cryptocurrency, hacking news, SIM Swapping, Twitter</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/cybercrime-group-muddled-libra-targets.html</loc>
+        <lastmod>2023-06-26T15:56:00+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-23T20:14:00+05:30</news:publication_date>
+            <news:title>Cybercrime Group 'Muddled Libra' Targets BPO Sector with Advanced Social Engineering</news:title>
+            <news:keywords>Cybercrime, hacking news, Palo Alto Networks, Phishing, social engineering</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/the-power-of-browser-fingerprinting.html</loc>
+        <lastmod>2023-06-23T16:20:29+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-23T16:20:00+05:30</news:publication_date>
+            <news:title>The Power of Browser Fingerprinting: Personalized UX, Fraud Detection, and Secure Logins</news:title>
+            <news:keywords>browser fingerprinting, browser security, Credential stuffing, online tracking, Privacy, wesbite security</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/powerful-javascript-dropper-pindos.html</loc>
+        <lastmod>2023-06-23T16:17:09+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-23T16:10:00+05:30</news:publication_date>
+            <news:title>Powerful JavaScript Dropper PindOS Distributes Bumblebee and IcedID Malware</news:title>
+            <news:keywords>hacking news, JavaScript, Malware</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/nsa-releases-guide-to-combat-powerful.html</loc>
+        <lastmod>2023-06-24T20:33:22+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-23T14:43:00+05:30</news:publication_date>
+            <news:title>NSA Releases Guide to Combat Powerful BlackLotus Bootkit Targeting Windows Systems</news:title>
+            <news:keywords>National Security Agency, UEFI Bootkit, UEFI Firmware, Unified Extensible Firmware Interface</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/new-cryptocurrency-mining-campaign.html</loc>
+        <lastmod>2023-06-23T13:00:56+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-23T13:00:00+05:30</news:publication_date>
+            <news:title>New Cryptocurrency Mining Campaign Targets Linux Systems and IoT Devices</news:title>
+            <news:keywords>cryptocurrency, Internet of Things, IoT, linux, Microsoft, OpenSSH</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/multistorm-campaign-targets-india-and.html</loc>
+        <lastmod>2023-06-22T22:28:34+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-22T22:28:00+05:30</news:publication_date>
+            <news:title>MULTI#STORM Campaign Targets India and U.S. with Remote Access Trojans</news:title>
+            <news:keywords>Malware, phishing attack, Remote Access Trojan</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/generative-ai-apps-chatgpt-potential.html</loc>
+        <lastmod>2023-06-22T18:45:12+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-22T18:45:00+05:30</news:publication_date>
+            <news:title>Generative-AI apps & ChatGPT: Potential risks and mitigation strategies</news:title>
+            <news:keywords>ChatGPT</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/alert-million-of-github-repositories.html</loc>
+        <lastmod>2023-06-23T11:52:02+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-22T18:43:00+05:30</news:publication_date>
+            <news:title>Alert: Million of GitHub Repositories Likely Vulnerable to RepoJacking Attack</news:title>
+            <news:keywords>GitHub, RepoJacking</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/camaro-dragon-hackers-strike-with-usb.html</loc>
+        <lastmod>2023-06-28T15:02:22+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-22T18:35:00+05:30</news:publication_date>
+            <news:title>Camaro Dragon Hackers Strike with USB-Driven Self-Propagating Malware</news:title>
+            <news:keywords>Chinese Hackers, cyber espionage</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/unveiling-unseen-identifying-data.html</loc>
+        <lastmod>2023-06-22T16:40:37+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-22T16:40:00+05:30</news:publication_date>
+            <news:title>Unveiling the Unseen: Identifying Data Exfiltration with Machine Learning</news:title>
+            <news:keywords>ExeonTrace, machine learning, Network Detection and Response</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/critical-flaw-found-in-wordpress-plugin.html</loc>
+        <lastmod>2023-06-22T15:47:43+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-22T15:47:00+05:30</news:publication_date>
+            <news:title>Critical Flaw Found in WordPress Plugin for WooCommerce Used by 30,000 Websites</news:title>
+            <news:keywords>Vulnerability, WordPress</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/zero-day-alert-apple-releases-patches.html</loc>
+        <lastmod>2023-07-11T09:01:54+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-22T12:26:00+05:30</news:publication_date>
+            <news:title>Zero-Day Alert: Apple Releases Patches for Actively Exploited Flaws in iOS, macOS, and Safari</news:title>
+            <news:keywords>Apple, software update, Vulnerability</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/scarcruft-hackers-exploit-ably-service.html</loc>
+        <lastmod>2023-06-22T22:21:03+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-21T21:46:00+05:30</news:publication_date>
+            <news:title>ScarCruft Hackers Exploit Ably Service for Stealthy Wiretapping Attacks</news:title>
+            <news:keywords>hacking news, Malware, Privacy</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/new-report-exposes-operation.html</loc>
+        <lastmod>2023-06-22T11:08:02+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-21T19:00:00+05:30</news:publication_date>
+            <news:title>New Report Exposes Operation Triangulation's Spyware Implant Targeting iOS Devices</news:title>
+            <news:keywords>Apple iOS, iOS hacking</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/startup-security-tactics-friction.html</loc>
+        <lastmod>2023-06-21T17:23:52+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-21T17:17:00+05:30</news:publication_date>
+            <news:title>Startup Security Tactics: Friction Surveys</news:title>
+            <news:keywords>cybersecurity, Startup, Vanta</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/critical-noauth-flaw-in-microsoft-azure.html</loc>
+        <lastmod>2023-06-21T17:25:21+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-21T17:08:00+05:30</news:publication_date>
+            <news:title>Critical 'nOAuth' Flaw in Microsoft Azure AD Enabled Complete Account Takeover</news:title>
+            <news:keywords>Active Directory, Microsoft Azure, OAuth</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/chinese-hacker-group-flea-targets.html</loc>
+        <lastmod>2023-06-21T16:59:07+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-21T16:59:00+05:30</news:publication_date>
+            <news:title>Chinese Hacker Group 'Flea' Targets American Ministries with Graphican Backdoor</news:title>
+            <news:keywords>hacking news, state sponsored hackers</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/new-condi-malware-hijacking-tp-link-wi.html</loc>
+        <lastmod>2023-06-21T11:06:17+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-21T11:06:00+05:30</news:publication_date>
+            <news:title>New Condi Malware Hijacking TP-Link Wi-Fi Routers for DDoS Botnet Attacks</news:title>
+            <news:keywords>botnet, ddos attack, Malware, Vulnerability</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/alert-hackers-exploiting-critical.html</loc>
+        <lastmod>2023-06-22T11:09:10+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-21T10:30:00+05:30</news:publication_date>
+            <news:title>Alert! Hackers Exploiting Critical Vulnerability in VMware's Aria Operations Networks</news:title>
+            <news:keywords>Command Injection, Mandiant, vmware, Vulnerability</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/researchers-expose-new-severe-flaws-in.html</loc>
+        <lastmod>2023-06-21T00:38:32+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-21T00:38:00+05:30</news:publication_date>
+            <news:title>Researchers Expose New Severe Flaws in Wago and Schneider Electric OT Products</news:title>
+            <news:keywords>Operational Technology, Vulnerability</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/zyxel-releases-urgent-security-updates.html</loc>
+        <lastmod>2023-06-20T17:42:38+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-20T17:42:00+05:30</news:publication_date>
+            <news:title>Zyxel Releases Urgent Security Updates for Critical Vulnerability in NAS Devices</news:title>
+            <news:keywords>NAS Device, Network Attached Storage, Vulnerability, ZyXEL</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/saas-in-real-world-how-global-food.html</loc>
+        <lastmod>2023-06-20T17:28:50+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-20T17:27:00+05:30</news:publication_date>
+            <news:title>SaaS in the Real World: How Global Food Chains Can Secure Their Digital Dish</news:title>
+            <news:keywords>Adaptive Shield, SaaS Security, SaaS Security Posture Management</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/experts-uncover-year-long-cyber-attack.html</loc>
+        <lastmod>2023-06-21T16:49:28+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-20T17:25:00+05:30</news:publication_date>
+            <news:title>Experts Uncover Year-Long Cyber Attack on IT Firm Utilizing Custom Malware RDStealer</news:title>
+            <news:keywords>Cyber Attack, Golang, Malware</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/asus-releases-patches-to-fix-critical.html</loc>
+        <lastmod>2023-06-20T14:09:13+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-20T14:09:00+05:30</news:publication_date>
+            <news:title>ASUS Releases Patches to Fix Critical Security Bugs Impacting Multiple Router Models</news:title>
+            <news:keywords>network security, Router hacking, router security, Vulnerability</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/over-100000-stolen-chatgpt-account.html</loc>
+        <lastmod>2023-06-26T15:55:17+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-20T13:42:00+05:30</news:publication_date>
+            <news:title>Over 100,000 Stolen ChatGPT Account Credentials Sold on Dark Web Marketplaces</news:title>
+            <news:keywords>artificial intelligence, ChatGPT, Group-IB, OpenAI, password security, two factor authentication</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/rogue-android-apps-target-pakistani.html</loc>
+        <lastmod>2023-06-20T13:47:49+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-20T10:35:00+05:30</news:publication_date>
+            <news:title>Rogue Android Apps Target Pakistani Individuals in Sophisticated Espionage Campaign</news:title>
+            <news:keywords>Android, Cyfirma, Google Play Store, Indian hacker, Malware, Pakistani Hacker</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/new-mystic-stealer-malware-targets-40.html</loc>
+        <lastmod>2023-06-22T11:09:43+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-19T20:51:00+05:30</news:publication_date>
+            <news:title>New Mystic Stealer Malware Targets 40 Web Browsers and 70 Browser Extensions</news:title>
+            <news:keywords>browser security, Malware, Zscaler</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/researchers-discover-new-sophisticated.html</loc>
+        <lastmod>2023-06-19T18:07:54+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-19T18:07:00+05:30</news:publication_date>
+            <news:title>Researchers Discover New Sophisticated Toolkit Targeting Apple macOS Systems</news:title>
+            <news:keywords>Apple macOS, Bitdefender, cybersecurity, VirusTotal</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/introducing-ai-guided-remediation-for.html</loc>
+        <lastmod>2023-06-19T17:27:25+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-19T17:21:00+05:30</news:publication_date>
+            <news:title>Introducing AI-guided Remediation for IaC Security / KICS</news:title>
+            <news:keywords>AppSec, Checkmarx, SecDevOps, secure coding</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://thehackernews.com/2023/06/state-backed-hackers-employ-advanced.html</loc>
+        <lastmod>2023-06-22T11:10:05+05:30</lastmod>
+        <news:news>
+            <news:publication>
+                <news:name>The Hacker News</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2023-06-19T15:03:00+05:30</news:publication_date>
+            <news:title>State-Backed Hackers Employ Advanced Methods to Target Middle Eastern and African Governments</news:title>
+            <news:keywords>Cyberespionage, Microsoft Exchange, Palo Alto Networks</news:keywords>
+        </news:news>
+    </url>
+</urlset>

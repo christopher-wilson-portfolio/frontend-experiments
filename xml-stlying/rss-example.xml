@@ -1,0 +1,272 @@
+<?xml-stylesheet href="xml.css" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hacker News: Newest</title>
+        <link>https://news.ycombinator.com/newest</link>
+        <description>Hacker News RSS</description>
+        <docs>https://hnrss.org/</docs>
+        <generator>hnrss v2.1</generator>
+        <lastBuildDate>Tue, 11 Jul 2023 18:59:20 +0000</lastBuildDate>
+        <atom:link href="https://hnrss.org/newest" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>
+                <![CDATA[ Beware the Integrated Tests Scam ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam">https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685613">https://news.ycombinator.com/item?id=36685613</a></p> <p>Points: 1</p> <p># Comments: 0</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:53:47 +0000</pubDate>
+            <link>https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam</link>
+            <dc:creator>BerislavLopac</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685613</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685613</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Largest integer factored by Shor's algorithm? ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://crypto.stackexchange.com/questions/59795/largest-integer-factored-by-shors-algorithm">https://crypto.stackexchange.com/questions/59795/largest-integer-factored-by-shors-algorithm</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685607">https://news.ycombinator.com/item?id=36685607</a></p> <p>Points: 1</p> <p># Comments: 0</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:53:28 +0000</pubDate>
+            <link>https://crypto.stackexchange.com/questions/59795/largest-integer-factored-by-shors-algorithm</link>
+            <dc:creator>qsantos</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685607</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685607</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Researchers Devise Algorithm to Break Through “Search Bubbles” ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://www.nyu.edu/about/news-publications/news/2023/july/researchers-devise-algorithm-to-break-through--search-bubbles-.html">https://www.nyu.edu/about/news-publications/news/2023/july/researchers-devise-algorithm-to-break-through--search-bubbles-.html</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685596">https://news.ycombinator.com/item?id=36685596</a></p> <p>Points: 1</p> <p># Comments: 0</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:52:32 +0000</pubDate>
+            <link>https://www.nyu.edu/about/news-publications/news/2023/july/researchers-devise-algorithm-to-break-through--search-bubbles-.html</link>
+            <dc:creator>amichail</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685596</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685596</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Follow-up to Firefox 115 can silently remotely disable my extension on any site ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://lapcatsoftware.com/articles/2023/7/3.html">https://lapcatsoftware.com/articles/2023/7/3.html</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685582">https://news.ycombinator.com/item?id=36685582</a></p> <p>Points: 1</p> <p># Comments: 1</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:51:36 +0000</pubDate>
+            <link>https://lapcatsoftware.com/articles/2023/7/3.html</link>
+            <dc:creator>lapcat</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685582</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685582</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ In defense of slow feedback loops ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://buttondown.email/hillelwayne/archive/in-defense-of-slow-feedback-loops/">https://buttondown.email/hillelwayne/archive/in-defense-of-slow-feedback-loops/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685575">https://news.ycombinator.com/item?id=36685575</a></p> <p>Points: 1</p> <p># Comments: 0</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:50:56 +0000</pubDate>
+            <link>https://buttondown.email/hillelwayne/archive/in-defense-of-slow-feedback-loops/</link>
+            <dc:creator>azhenley</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685575</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685575</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Small Dog ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://bikozulu.co.ke/2023/07/11/small-dog/">https://bikozulu.co.ke/2023/07/11/small-dog/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685556">https://news.ycombinator.com/item?id=36685556</a></p> <p>Points: 1</p> <p># Comments: 0</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:49:32 +0000</pubDate>
+            <link>https://bikozulu.co.ke/2023/07/11/small-dog/</link>
+            <dc:creator>komuW</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685556</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685556</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Bubblewrap – Low-level unprivileged sandboxing tool used by Flatpak ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://github.com/containers/bubblewrap">https://github.com/containers/bubblewrap</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685514">https://news.ycombinator.com/item?id=36685514</a></p> <p>Points: 2</p> <p># Comments: 0</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:46:51 +0000</pubDate>
+            <link>https://github.com/containers/bubblewrap</link>
+            <dc:creator>TheFreim</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685514</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685514</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Reflections on AI Explain: A Postmortem ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://developer.mozilla.org/en-US/blog/ai-explain-postmortem/">https://developer.mozilla.org/en-US/blog/ai-explain-postmortem/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685511">https://news.ycombinator.com/item?id=36685511</a></p> <p>Points: 1</p> <p># Comments: 0</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:46:46 +0000</pubDate>
+            <link>https://developer.mozilla.org/en-US/blog/ai-explain-postmortem/</link>
+            <dc:creator>brycewray</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685511</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685511</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Scientists used ChatGPT to generate an entire paper from scratch–is it any good? ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://www.nature.com/articles/d41586-023-02218-z">https://www.nature.com/articles/d41586-023-02218-z</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685507">https://news.ycombinator.com/item?id=36685507</a></p> <p>Points: 1</p> <p># Comments: 0</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:46:34 +0000</pubDate>
+            <link>https://www.nature.com/articles/d41586-023-02218-z</link>
+            <dc:creator>bookofjoe</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685507</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685507</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Why Bill Gates Isn’t Too Worried About the Risks of AI ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://time.com/6293735/bill-gates-ai-risk/">https://time.com/6293735/bill-gates-ai-risk/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685504">https://news.ycombinator.com/item?id=36685504</a></p> <p>Points: 1</p> <p># Comments: 1</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:46:08 +0000</pubDate>
+            <link>https://time.com/6293735/bill-gates-ai-risk/</link>
+            <dc:creator>mdp2021</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685504</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685504</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Code Interpreter == GPT 4.5 ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://www.latent.space/p/code-interpreter">https://www.latent.space/p/code-interpreter</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685484">https://news.ycombinator.com/item?id=36685484</a></p> <p>Points: 1</p> <p># Comments: 1</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:44:45 +0000</pubDate>
+            <link>https://www.latent.space/p/code-interpreter</link>
+            <dc:creator>tikkun</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685484</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685484</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Extending Python with Go, and vice versa ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://gitlab.com/pygolo/py">https://gitlab.com/pygolo/py</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685440">https://news.ycombinator.com/item?id=36685440</a></p> <p>Points: 1</p> <p># Comments: 0</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:42:15 +0000</pubDate>
+            <link>https://gitlab.com/pygolo/py</link>
+            <dc:creator>scruple</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685440</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685440</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Fight over a Single UWS Open Street Is So Bitter, Council Called in a Mediator ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://nyc.streetsblog.org/2023/07/11/fight-over-a-single-uws-open-street-is-so-bitter-council-member-called-in-a-mediator">https://nyc.streetsblog.org/2023/07/11/fight-over-a-single-uws-open-street-is-so-bitter-council-member-called-in-a-mediator</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685428">https://news.ycombinator.com/item?id=36685428</a></p> <p>Points: 1</p> <p># Comments: 0</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:41:44 +0000</pubDate>
+            <link>https://nyc.streetsblog.org/2023/07/11/fight-over-a-single-uws-open-street-is-so-bitter-council-member-called-in-a-mediator</link>
+            <dc:creator>okasaki</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685428</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685428</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ US think tank founder charged with acting as Chinese agent ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://www.bbc.com/news/world-us-canada-66160979">https://www.bbc.com/news/world-us-canada-66160979</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685423">https://news.ycombinator.com/item?id=36685423</a></p> <p>Points: 3</p> <p># Comments: 0</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:41:00 +0000</pubDate>
+            <link>https://www.bbc.com/news/world-us-canada-66160979</link>
+            <dc:creator>libpcap</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685423</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685423</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Spanish minister rides bicycle 100 meters ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://www.timesnownews.com/world/spanish-minister-teresa-ribera-rides-bicycle-to-climate-summit-after-travelling-in-jet-video-goes-viral-article-101674159">https://www.timesnownews.com/world/spanish-minister-teresa-ribera-rides-bicycle-to-climate-summit-after-travelling-in-jet-video-goes-viral-article-101674159</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685402">https://news.ycombinator.com/item?id=36685402</a></p> <p>Points: 2</p> <p># Comments: 0</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:39:50 +0000</pubDate>
+            <link>https://www.timesnownews.com/world/spanish-minister-teresa-ribera-rides-bicycle-to-climate-summit-after-travelling-in-jet-video-goes-viral-article-101674159</link>
+            <dc:creator>rgrieselhuber</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685402</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685402</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Auction based resource allocation in cloud computing [pdf] ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://www.researchgate.net/profile/Hua-Tianfield/publication/286098696_Auction_based_resource_allocation_in_cloud_computing/links/5a2531d3aca2727dd87e925c/Auction-based-resource-allocation-in-cloud-computing.pdf">https://www.researchgate.net/profile/Hua-Tianfield/publication/286098696_Auction_based_resource_allocation_in_cloud_computing/links/5a2531d3aca2727dd87e925c/Auction-based-resource-allocation-in-cloud-computing.pdf</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685397">https://news.ycombinator.com/item?id=36685397</a></p> <p>Points: 1</p> <p># Comments: 0</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:39:27 +0000</pubDate>
+            <link>https://www.researchgate.net/profile/Hua-Tianfield/publication/286098696_Auction_based_resource_allocation_in_cloud_computing/links/5a2531d3aca2727dd87e925c/Auction-based-resource-allocation-in-cloud-computing.pdf</link>
+            <dc:creator>agnosticmantis</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685397</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685397</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Retro ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://www.retro.app/">https://www.retro.app/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685390">https://news.ycombinator.com/item?id=36685390</a></p> <p>Points: 1</p> <p># Comments: 0</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:38:33 +0000</pubDate>
+            <link>https://www.retro.app/</link>
+            <dc:creator>eiiot</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685390</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685390</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ A Petabyte of Health Insurance Prices Per Month – Why is there so much data? ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://blog.turquoise.health/a-petabyte-of-health-insurance-rates-a-month/">https://blog.turquoise.health/a-petabyte-of-health-insurance-rates-a-month/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685350">https://news.ycombinator.com/item?id=36685350</a></p> <p>Points: 2</p> <p># Comments: 0</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:36:18 +0000</pubDate>
+            <link>https://blog.turquoise.health/a-petabyte-of-health-insurance-rates-a-month/</link>
+            <dc:creator>ageitgey</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685350</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685350</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 3Blue1Brown Mailing List ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://3blue1brown.substack.com/">https://3blue1brown.substack.com/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685349">https://news.ycombinator.com/item?id=36685349</a></p> <p>Points: 1</p> <p># Comments: 0</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:36:09 +0000</pubDate>
+            <link>https://3blue1brown.substack.com/</link>
+            <dc:creator>Tomte</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685349</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685349</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Most entertaining media brands in the U.S. ]]>
+            </title>
+            <description>
+                <![CDATA[ <p>Article URL: <a href="https://variety.com/vip/survey-tiktok-dominates-most-entertaining-media-brand-for-adults-under-30-netflix-youtube-1235651375/">https://variety.com/vip/survey-tiktok-dominates-most-entertaining-media-brand-for-adults-under-30-netflix-youtube-1235651375/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36685319">https://news.ycombinator.com/item?id=36685319</a></p> <p>Points: 1</p> <p># Comments: 1</p> ]]>
+            </description>
+            <pubDate>Tue, 11 Jul 2023 18:33:51 +0000</pubDate>
+            <link>https://variety.com/vip/survey-tiktok-dominates-most-entertaining-media-brand-for-adults-under-30-netflix-youtube-1235651375/</link>
+            <dc:creator>bookofjoe</dc:creator>
+            <comments>https://news.ycombinator.com/item?id=36685319</comments>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36685319</guid>
+        </item>
+    </channel>
+</rss>

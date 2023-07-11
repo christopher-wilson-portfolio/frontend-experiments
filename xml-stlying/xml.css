@@ -1,0 +1,54 @@
+/** RSS Styles **/
+channel {
+    background-color: rgb(246, 245, 239);
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13.3px;
+    gap: 0.5rem;
+    margin: 0.5rem auto;
+    min-width: 796px;
+    padding: 0 1rem;
+    width: 85%;
+}
+channel > link,
+channel > description,
+channel > generator,
+channel > lastBuildDate,
+channel > docs {
+    margin-bottom: -0.5rem;
+}
+channel > title {
+    background-color: rgb(255, 102, 0);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    margin: 0 -1rem 1rem;
+    padding: 0 1rem;
+}
+item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    margin-bottom: 1.5rem;
+    max-width: 55rem;
+}
+item > link {
+    text-decoration: underline;
+}
+item > link + *
+ {
+    font-style: italic;
+}
+item > pubdate {
+    margin-top: 0.5rem;
+}
+item > pubDate, item > link, item > comments, item > guid, item > link + * {
+    color: rgb(130, 130, 130);
+    font-size: 0.65rem;
+}
+item > title {
+    font-weight:  bold;
+}
+channel > lastBuildDate {
+    margin-bottom: 2rem;
+}
