@@ -1,15 +1,49 @@
-/** RSS Styles **/
-channel {
-    background-color: rgb(246, 245, 239);
-    display: flex;
+:root {
+    --color-tan: rgb(246, 246, 239);
+}
+
+channel,
+item,
+news,
+news > publication,
+url,
+urlset {
+    display: flex
+}
+channel, urlset, item, url {
     flex-direction: column;
+}
+channel, urlset {
     font-family: Verdana, Geneva, sans-serif;
     font-size: 13.3px;
-    gap: 0.5rem;
-    margin: 0.5rem auto;
     min-width: 796px;
     padding: 0 1rem;
     width: 85%;
+}
+item, url {
+    gap: 0.15rem;
+    margin-bottom: 1.5rem;
+}
+item > pubDate,
+item > link,
+item > comments,
+item > guid,
+item > link + *,
+keywords,
+language,
+lastmod,
+publication_date,
+publication > name {
+    color: rgb(130, 130, 130);
+    font-size: 0.65rem;
+}
+
+
+/** RSS Styles **/
+channel {
+    background-color: rgb(246, 245, 239);
+    gap: 0.5rem;
+    margin: 0.5rem auto;
 }
 channel > link,
 channel > description,
@@ -17,6 +51,9 @@ channel > generator,
 channel > lastBuildDate,
 channel > docs {
     margin-bottom: -0.5rem;
+}
+channel > lastBuildDate {
+    margin-bottom: 2rem;
 }
 channel > title {
     background-color: rgb(255, 102, 0);
@@ -26,29 +63,71 @@ channel > title {
     padding: 0 1rem;
 }
 item {
-    display: flex;
-    flex-direction: column;
-    gap: 0.15rem;
-    margin-bottom: 1.5rem;
     max-width: 55rem;
 }
 item > link {
     text-decoration: underline;
 }
-item > link + *
- {
+item > link + *, url > loc {
     font-style: italic;
 }
 item > pubdate {
     margin-top: 0.5rem;
 }
-item > pubDate, item > link, item > comments, item > guid, item > link + * {
-    color: rgb(130, 130, 130);
-    font-size: 0.65rem;
-}
+
 item > title {
     font-weight:  bold;
 }
-channel > lastBuildDate {
-    margin-bottom: 2rem;
+
+/** Sitemap CSS */
+language:after {
+    content: ')'
 }
+loc {
+    margin: 0.25rem 0;
+    order: 2;
+}
+lastmod {
+    order: 3;
+}
+news {
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    width: 100%;
+}
+news > publication_date {
+    flex-basis: 100%;
+    order: 3;
+}
+news > keywords {
+    order: 3;
+}
+news, news > title {
+    order: 1;
+}
+news > title {
+    flex-basis: fit-content;
+}
+news > publication {
+    flex-grow: 1;
+    order: 2;
+    width: 20%;
+}
+news > publication > name:after {
+    content: ' \00B7';
+}
+news > publication > name:before {
+    content: '(';
+}
+url {
+    background-color: var(--color-tan);
+    margin: 0;
+    padding-bottom: 1.5rem;
+    padding-left: 1.5rem;
+}
+urlset {
+    background-color: rgb(255, 255, 255);
+    margin: 0.5rem auto;
+}
+
