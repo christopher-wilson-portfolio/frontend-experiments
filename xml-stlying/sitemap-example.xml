@@ -23,8 +23,8 @@
                 <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2023-07-11T16:45:00+05:30</news:publication_date>
-            <news:title>How to Apply MITRE ATT&amp;CK to Your Organization</news:title>
-            <news:keywords>Cato Networks, Cybersecurity Framework, MITRE ATT&amp;CK Framework</news:keywords>
+            <news:title>How to Apply MITRE ATT&CK to Your Organization</news:title>
+            <news:keywords>Cato Networks, Cybersecurity Framework, MITRE ATT&CK Framework</news:keywords>
         </news:news>
     </url>
     <url>
@@ -998,7 +998,7 @@
                 <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2023-06-22T18:45:00+05:30</news:publication_date>
-            <news:title>Generative-AI apps &amp; ChatGPT: Potential risks and mitigation strategies</news:title>
+            <news:title>Generative-AI apps & ChatGPT: Potential risks and mitigation strategies</news:title>
             <news:keywords>ChatGPT</news:keywords>
         </news:news>
     </url>
